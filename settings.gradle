@@ -1,0 +1,2 @@
+rootProject.name='BaiTapCoGiao'
+include ':app'
